@@ -1,0 +1,14 @@
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\obj\Debug\net8.0-windows\PrinterManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\obj\Debug\net8.0-windows\PrinterManager.AssemblyInfoInputs.cache
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\obj\Debug\net8.0-windows\PrinterManager.AssemblyInfo.cs
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\obj\Debug\net8.0-windows\PrinterManager.csproj.CoreCompileInputs.cache
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\bin\Debug\net8.0-windows\PrinterManager.exe
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\bin\Debug\net8.0-windows\PrinterManager.deps.json
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\bin\Debug\net8.0-windows\PrinterManager.runtimeconfig.json
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\bin\Debug\net8.0-windows\PrinterManager.dll
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\bin\Debug\net8.0-windows\PrinterManager.pdb
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\obj\Debug\net8.0-windows\PrinterManager.dll
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\obj\Debug\net8.0-windows\refint\PrinterManager.dll
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\obj\Debug\net8.0-windows\PrinterManager.pdb
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\obj\Debug\net8.0-windows\PrinterManager.genruntimeconfig.cache
+C:\Users\ti.renan\Desktop\formWin\Form\PrinterManager\obj\Debug\net8.0-windows\ref\PrinterManager.dll
